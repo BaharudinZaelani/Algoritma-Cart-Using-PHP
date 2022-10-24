@@ -1,0 +1,15 @@
+Responden	JK	Pekerjaan	Partai	Paselon
+27	P	Wiraswasta	DEMOKRAT	2
+32	L	Petani	DEMOKRAT	2
+50	P	IRT	DEMOKRAT	2
+52	P	IRT	DEMOKRAT	2
+53	L	Wiraswasta	DEMOKRAT	1
+58	P	IRT	DEMOKRAT	2
+65	L	Wiraswasta	DEMOKRAT	1
+68	L	Wiraswasta	DEMOKRAT	2
+80	P	Wiraswasta	DEMOKRAT	2
+84	P	Wiraswasta	DEMOKRAT	2
+5	L	Wiraswasta	PKS	2
+23	L	Wiraswasta	PKS	2
+31	P	IRT	PKS	2
+87	P	IRT	PKS	2

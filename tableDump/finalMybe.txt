@@ -1,0 +1,5 @@
+Responden	JK	Pekerjaan	Partai	Paselon
+5	L	Wiraswasta	PKS	2
+23	L	Wiraswasta	PKS	2
+31	P	IRT	PKS	2
+87	P	IRT	PKS	2
